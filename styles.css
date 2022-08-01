@@ -13,11 +13,11 @@ body {
     gap: 0;
     margin-top: 50px;
     width: 500px;
+    border: 1px solid black;
 }
 
 .cell {
     padding: 15px;
-    border: 1px solid black;
     background: white;
 }
 
